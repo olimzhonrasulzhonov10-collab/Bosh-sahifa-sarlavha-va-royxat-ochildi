@@ -1,0 +1,8 @@
+table {
+            border-collapse: collapses;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+.noutbuk{display: flex;
+            gap: 300px;}
